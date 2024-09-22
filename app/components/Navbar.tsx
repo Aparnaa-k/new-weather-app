@@ -20,7 +20,7 @@ function Navbar() {
       <ThemeDropDown/>
 
       <div className="btn-group flex items-center gap-2">
-      <Button className='source-code flex items-center gap-2 ' onClick={() => { router.push("https://github.com/Aparnaa-k "); }}>
+      <Button className='source-code flex items-center gap-2 ' onClick={() => { router.push("https://github.com/Aparnaa-k/new-weather-app"); }}>
         <Github size={16} /> Source Code
       </Button>
       </div>
